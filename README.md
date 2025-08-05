@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff70a6&height=200&section=header&text=Her%20Cycle%20%7C%20Menstrual%20Wellness%20Companion&fontSize=30&fontColor=ffffff" width="2600"/>
-# 🌸 Her Cycle – Your Menstrual Wellness Companion 💕
+🌸 Her Cycle – Your Menstrual Wellness Companion 💕
 
 > *"Because every cycle deserves care, comfort, and awareness."*
 
@@ -10,7 +10,7 @@
 ## 🧠 About the Project
 
 **Her Cycle** is a thoughtfully designed web app focused on women's health – offering cycle tracking, period predictions, mood logs, and wellness tips. Built with empathy and tech, it aims to break taboos and promote awareness in a private, respectful, and interactive way.
-<br><br>
+<br>
 ---
 
 ## 🌟 Why This Project?
@@ -185,7 +185,7 @@ Use Lottie animations for mood selection 😊
 ## 🧑‍💻 Connect With Me
 Hey! I'm Gayatri G – a frontend developer who loves building emotionally intelligent, visually rich applications ✨
 
-Let's connect and collaborate 🚀:
+Let's connect and collaborate as Diving in ocean of Knowledge brings nature and Technology together🚀:
 
 <div align="center"> <a href="mailto:gayatri192005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/gayatri192005"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.instagram.com/gayatri192005"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://twitter.com/gayatri192005"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href="https://snapchat.com/add/gayatri192005"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/></a> </div>
 
